@@ -1,8 +1,8 @@
 local Configs_HUB = {
-  Cor_Hub = Color3.fromRGB(0, 128, 0),  -- Verde escuro
-  Cor_Options = Color3.fromRGB(0, 255, 0),  -- Verde brilhante
-  Cor_Stroke = Color3.fromRGB(0, 100, 0),  -- Verde musgo
-  Cor_Text = Color3.fromRGB(144, 238, 144),  -- Verde claro
+  Cor_Hub = Color3.fromRGB(0, 100, 0),  -- Verde escuro
+  Cor_Options = Color3.fromRGB(0, 150, 0),  -- Verde limão escuro
+  Cor_Stroke = Color3.fromRGB(0, 80, 0),  -- Verde musgo escuro
+  Cor_Text = Color3.fromRGB(0, 0, 0),  -- Texto preto
   Cor_DarkText = Color3.fromRGB(0, 50, 0),  -- Verde muito escuro
   Corner_Radius = UDim.new(0, 4),
   Text_Font = Enum.Font.FredokaOne
